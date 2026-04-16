@@ -1,0 +1,131 @@
+channel,region,lead_status,lead_count,total_deal_value,avg_deal_value,avg_lead_score,won_count
+Content/SEO,Europe,Contacted,4,0.0,0.0,25.0,0
+Content/SEO,Europe,Lost,5,0.0,0.0,0.0,0
+Content/SEO,Europe,New,6,0.0,0.0,10.0,0
+Content/SEO,Europe,Proposal,10,139486.04,13948.604000000001,75.0,0
+Content/SEO,Europe,Qualified,8,0.0,0.0,50.0,0
+Content/SEO,Europe,Won,10,203790.65,20379.065,100.0,10
+Content/SEO,LATAM,Contacted,10,0.0,0.0,25.0,0
+Content/SEO,LATAM,Lost,6,0.0,0.0,0.0,0
+Content/SEO,LATAM,New,5,0.0,0.0,10.0,0
+Content/SEO,LATAM,Proposal,5,91422.65,18284.53,75.0,0
+Content/SEO,LATAM,Qualified,6,0.0,0.0,50.0,0
+Content/SEO,LATAM,Won,4,70881.75,17720.4375,100.0,4
+Content/SEO,North America,Contacted,2,0.0,0.0,25.0,0
+Content/SEO,North America,New,2,0.0,0.0,10.0,0
+Content/SEO,North America,Proposal,4,12004.0,3001.0,75.0,0
+Content/SEO,North America,Qualified,7,0.0,0.0,50.0,0
+Email Marketing,APAC,Contacted,25,0.0,0.0,25.0,0
+Email Marketing,APAC,Lost,18,0.0,0.0,0.0,0
+Email Marketing,APAC,New,42,0.0,0.0,10.0,0
+Email Marketing,APAC,Proposal,28,126257.16,4509.184285714286,75.0,0
+Email Marketing,APAC,Qualified,35,0.0,0.0,50.0,0
+Email Marketing,APAC,Won,22,100299.91,4559.086818181819,100.0,22
+Email Marketing,Europe,Contacted,218,0.0,0.0,25.0,0
+Email Marketing,Europe,Lost,75,0.0,0.0,0.0,0
+Email Marketing,Europe,New,201,0.0,0.0,10.0,0
+Email Marketing,Europe,Proposal,140,782912.75,5592.233928571429,75.0,0
+Email Marketing,Europe,Qualified,191,0.0,0.0,50.0,0
+Email Marketing,Europe,Won,90,506841.32,5631.570222222223,100.0,90
+Email Marketing,LATAM,Contacted,322,0.0,0.0,25.0,0
+Email Marketing,LATAM,Lost,167,0.0,0.0,0.0,0
+Email Marketing,LATAM,New,252,0.0,0.0,10.0,0
+Email Marketing,LATAM,Proposal,352,1832856.92,5206.979886363636,75.0,0
+Email Marketing,LATAM,Qualified,339,0.0,0.0,50.0,0
+Email Marketing,LATAM,Won,288,1577121.51,5476.1163541666665,100.0,288
+Email Marketing,North America,Contacted,361,0.0,0.0,25.0,0
+Email Marketing,North America,Lost,146,0.0,0.0,0.0,0
+Email Marketing,North America,New,265,0.0,0.0,10.0,0
+Email Marketing,North America,Proposal,236,2089582.16,8854.161694915254,75.0,0
+Email Marketing,North America,Qualified,343,0.0,0.0,50.0,0
+Email Marketing,North America,Won,189,2134940.18,11295.97978835979,100.0,189
+Google Ads,Europe,Contacted,89,0.0,0.0,25.0,0
+Google Ads,Europe,Lost,50,0.0,0.0,0.0,0
+Google Ads,Europe,New,79,0.0,0.0,10.0,0
+Google Ads,Europe,Proposal,62,370196.31,5970.908225806452,75.0,0
+Google Ads,Europe,Qualified,79,0.0,0.0,50.0,0
+Google Ads,Europe,Won,61,377957.7,6196.0278688524595,100.0,61
+Google Ads,LATAM,Contacted,297,0.0,0.0,25.0,0
+Google Ads,LATAM,Lost,106,0.0,0.0,0.0,0
+Google Ads,LATAM,New,211,0.0,0.0,10.0,0
+Google Ads,LATAM,Proposal,175,1025616.3,5860.664571428571,75.0,0
+Google Ads,LATAM,Qualified,269,0.0,0.0,50.0,0
+Google Ads,LATAM,Won,179,1181219.97,6598.994245810056,100.0,179
+Google Ads,North America,Contacted,162,0.0,0.0,25.0,0
+Google Ads,North America,Lost,71,0.0,0.0,0.0,0
+Google Ads,North America,New,130,0.0,0.0,10.0,0
+Google Ads,North America,Proposal,123,713764.75,5802.965447154472,75.0,0
+Google Ads,North America,Qualified,160,0.0,0.0,50.0,0
+Google Ads,North America,Won,131,758912.54,5793.225496183207,100.0,131
+LinkedIn Ads,APAC,Contacted,33,0.0,0.0,25.0,0
+LinkedIn Ads,APAC,Lost,9,0.0,0.0,0.0,0
+LinkedIn Ads,APAC,New,18,0.0,0.0,10.0,0
+LinkedIn Ads,APAC,Proposal,7,126962.09000000001,18137.44142857143,75.0,0
+LinkedIn Ads,APAC,Qualified,27,0.0,0.0,50.0,0
+LinkedIn Ads,APAC,Won,8,164192.38999999998,20524.048749999998,100.0,8
+LinkedIn Ads,Europe,Contacted,39,0.0,0.0,25.0,0
+LinkedIn Ads,Europe,Lost,24,0.0,0.0,0.0,0
+LinkedIn Ads,Europe,New,23,0.0,0.0,10.0,0
+LinkedIn Ads,Europe,Proposal,54,320528.56,5935.714074074074,75.0,0
+LinkedIn Ads,Europe,Qualified,48,0.0,0.0,50.0,0
+LinkedIn Ads,Europe,Won,41,254297.94,6202.388780487805,100.0,41
+LinkedIn Ads,LATAM,Contacted,20,0.0,0.0,25.0,0
+LinkedIn Ads,LATAM,Lost,15,0.0,0.0,0.0,0
+LinkedIn Ads,LATAM,New,17,0.0,0.0,10.0,0
+LinkedIn Ads,LATAM,Proposal,28,149705.04,5346.608571428572,75.0,0
+LinkedIn Ads,LATAM,Qualified,36,0.0,0.0,50.0,0
+LinkedIn Ads,LATAM,Won,30,138510.36000000002,4617.012000000001,100.0,30
+LinkedIn Ads,North America,Contacted,30,0.0,0.0,25.0,0
+LinkedIn Ads,North America,Lost,14,0.0,0.0,0.0,0
+LinkedIn Ads,North America,New,19,0.0,0.0,10.0,0
+LinkedIn Ads,North America,Proposal,21,109204.81,5200.229047619047,75.0,0
+LinkedIn Ads,North America,Qualified,25,0.0,0.0,50.0,0
+LinkedIn Ads,North America,Won,10,58430.49,5843.049,100.0,10
+Meta Ads,APAC,Contacted,5,0.0,0.0,25.0,0
+Meta Ads,APAC,Lost,1,0.0,0.0,0.0,0
+Meta Ads,APAC,New,4,0.0,0.0,10.0,0
+Meta Ads,APAC,Proposal,4,24779.75,6194.9375,75.0,0
+Meta Ads,APAC,Qualified,7,0.0,0.0,50.0,0
+Meta Ads,APAC,Won,3,15365.68,5121.893333333333,100.0,3
+Meta Ads,Europe,Contacted,87,0.0,0.0,25.0,0
+Meta Ads,Europe,Lost,36,0.0,0.0,0.0,0
+Meta Ads,Europe,New,77,0.0,0.0,10.0,0
+Meta Ads,Europe,Proposal,52,582737.64,11206.493076923078,75.0,0
+Meta Ads,Europe,Qualified,87,0.0,0.0,50.0,0
+Meta Ads,Europe,Won,49,596784.45,12179.274489795918,100.0,49
+Meta Ads,LATAM,Contacted,57,0.0,0.0,25.0,0
+Meta Ads,LATAM,Lost,44,0.0,0.0,0.0,0
+Meta Ads,LATAM,New,41,0.0,0.0,10.0,0
+Meta Ads,LATAM,Proposal,56,1115196.55,19914.224107142858,75.0,0
+Meta Ads,LATAM,Qualified,47,0.0,0.0,50.0,0
+Meta Ads,LATAM,Won,47,863750.45,18377.66914893617,100.0,47
+Meta Ads,North America,Contacted,151,0.0,0.0,25.0,0
+Meta Ads,North America,Lost,76,0.0,0.0,0.0,0
+Meta Ads,North America,New,113,0.0,0.0,10.0,0
+Meta Ads,North America,Proposal,123,721520.02,5866.016422764228,75.0,0
+Meta Ads,North America,Qualified,135,0.0,0.0,50.0,0
+Meta Ads,North America,Won,110,619142.85,5628.5713636363635,100.0,110
+TikTok Ads,APAC,Contacted,89,0.0,0.0,25.0,0
+TikTok Ads,APAC,Lost,37,0.0,0.0,0.0,0
+TikTok Ads,APAC,New,66,0.0,0.0,10.0,0
+TikTok Ads,APAC,Proposal,55,257865.47999999998,4688.463272727272,75.0,0
+TikTok Ads,APAC,Qualified,85,0.0,0.0,50.0,0
+TikTok Ads,APAC,Won,56,279083.6,4983.635714285714,100.0,56
+TikTok Ads,Europe,Contacted,21,0.0,0.0,25.0,0
+TikTok Ads,Europe,Lost,12,0.0,0.0,0.0,0
+TikTok Ads,Europe,New,14,0.0,0.0,10.0,0
+TikTok Ads,Europe,Proposal,29,206411.95,7117.6534482758625,75.0,0
+TikTok Ads,Europe,Qualified,25,0.0,0.0,50.0,0
+TikTok Ads,Europe,Won,35,289119.8,8260.565714285714,100.0,35
+TikTok Ads,LATAM,Contacted,121,0.0,0.0,25.0,0
+TikTok Ads,LATAM,Lost,41,0.0,0.0,0.0,0
+TikTok Ads,LATAM,New,101,0.0,0.0,10.0,0
+TikTok Ads,LATAM,Proposal,83,705043.6,8494.501204819277,75.0,0
+TikTok Ads,LATAM,Qualified,107,0.0,0.0,50.0,0
+TikTok Ads,LATAM,Won,77,623264.91,8094.3494805194805,100.0,77
+TikTok Ads,North America,Contacted,184,0.0,0.0,25.0,0
+TikTok Ads,North America,Lost,73,0.0,0.0,0.0,0
+TikTok Ads,North America,New,177,0.0,0.0,10.0,0
+TikTok Ads,North America,Proposal,119,1023746.21,8602.909327731091,75.0,0
+TikTok Ads,North America,Qualified,149,0.0,0.0,50.0,0
+TikTok Ads,North America,Won,95,1033521.3,10879.17157894737,100.0,95
