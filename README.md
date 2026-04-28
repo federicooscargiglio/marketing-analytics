@@ -85,14 +85,11 @@ The interactive dashboard includes 3 pages:
 
 ## 🖼️ Dashboard Screenshots
 
-**Executive Summary**
-![Executive Summary](docs/figures/executive_summary.png)
+![Executive Summary](docs/figures/Executive%20Summary.png)
 
-**Channel Deep Dive**
-![Channel Deep Dive](docs/figures/channel_deep_dive.png)
+![Channel Deep Dive](docs/figures/Channel%20deep%20dive.png)
 
-**Lead Funnel**
-![Lead Funnel](docs/figures/lead_funnel.png)
+![Lead Funnel](docs/figures/Lead%20Funnel.png)
 
 📌 To use: Open `dashboards/marketing_dashboard.pbix` in Power BI Desktop and connect to `data/processed/marketing_analytics_data.xlsx`
 
