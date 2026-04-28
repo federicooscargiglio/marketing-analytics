@@ -83,6 +83,17 @@ The interactive dashboard includes 3 pages:
 - Leads by channel
 - Filter by region
 
+## 🖼️ Dashboard Screenshots
+
+**Executive Summary**
+![Executive Summary](docs/figures/executive_summary.png)
+
+**Channel Deep Dive**
+![Channel Deep Dive](docs/figures/channel_deep_dive.png)
+
+**Lead Funnel**
+![Lead Funnel](docs/figures/lead_funnel.png)
+
 📌 To use: Open `dashboards/marketing_dashboard.pbix` in Power BI Desktop and connect to `data/processed/marketing_analytics_data.xlsx`
 
 ## 📈 Key Findings
